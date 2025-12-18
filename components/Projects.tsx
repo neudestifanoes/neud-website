@@ -13,7 +13,7 @@ const projects = [
         "Increased decoding accuracy from 54% to 88% by iterating through 12+ system versions to improve signal stability.",
         "Architected a modular WebSocket pipeline connecting a React stimulus interface to OpenBCI Cyton hardware."
       ],
-      links: { github: "#", demo: "#" },
+      links: { github: "https://github.com/neudestifanoes/Cursor-Vector-Engine", demo: "https://github.com/neudestifanoes/Cursor-Vector-Engine/blob/main/frontend/README.md" },
       color: "border-neuro-500",
       iconColor: "text-neuro-500"
     },
