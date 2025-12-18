@@ -7,7 +7,7 @@ const experience = [
     company: "The Murty Lab",
     role: "Researcher",
     date: "Aug 2025 – Present",
-    description: "Modeling large-scale fMRI datasets and comparing Deep Neural Network representations to biological responses.",
+    description: "Modeled large-scale fMRI and electrophysiology datasets with encoding models to study neural coding and compare DNN representations to biological responses, achieving ~40% higher RSA alignment than baseline feature models.",
     tech: "Python, PyTorch, RSA Analysis",
     icon: Brain,
     color: "text-neuro-500", 
