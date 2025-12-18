@@ -57,7 +57,7 @@ export default function Home() {
 
             {/* GitHub */}
             <a 
-              href="https://github.com" 
+              href="https://github.com/neudestifanoes" 
               target="_blank"
               className="p-3 bg-white/5 hover:bg-white/10 border border-white/10 rounded-full transition-all hover:scale-105 group"
             >
@@ -66,7 +66,7 @@ export default function Home() {
 
             {/* LinkedIn */}
             <a 
-              href="https://linkedin.com" 
+              href="https://linkedin.com/in/neud-estifanoes-389453254" 
               target="_blank"
               className="p-3 bg-white/5 hover:bg-white/10 border border-white/10 rounded-full transition-all hover:scale-105 group"
             >
