@@ -18,7 +18,7 @@ const projects = [
       iconColor: "text-neuro-500"
     },
     {
-      title: "Brain-Inspired Stock Trader",
+      title: "Event-Driven RL Trading System",
       date: "Jun 2025",
       description: "A brain-inspired Deep Q-Learning trading system that encodes market dynamics as spikes, enabling robust decision-making in volatile conditions.",
       tech: ["Python", "PyTorch", "NumPy", "OpenAI Gym", "Matplotlib", "Time-Series Analysis"],
@@ -27,7 +27,7 @@ const projects = [
         "Engineered spike-train encoding to model market signals as temporally sparse neural representations, improving volatility robustness.",
         "Built a reusable, modular analysis pipeline for financial time-series data to support rapid iterative experimentation."
       ],
-      links: { github: "#", demo: "#" },
+      links: { github: "https://github.com/neudestifanoes/neural-spike-inspired-trader", demo: "https://github.com/neudestifanoes/neural-spike-inspired-trader/blob/master/README.md" },
       color: "border-neuro-500",
       iconColor: "text-neuro-500"
     }
